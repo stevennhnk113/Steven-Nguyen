@@ -1,4 +1,4 @@
-### About me
+# About me
 
 I graduated from Seattle University with a degree in Computer Science. I am currently getting a diploma in Data Analytic at Douglas College to support my career.
 
@@ -33,10 +33,10 @@ I graduated from Seattle University with a degree in Computer Science. I am curr
 -	Utilize React Native to build cross platform app (Android and iOS) and Google Firebase for backend
 
 **Adventure Assistant, Amazon Alexa Skills, Live**
-https://www.amazon.com/gp/product/B07J3YC2JL?ie=UTF8&ref-suffix=ss_rw
+- https://www.amazon.com/gp/product/B07J3YC2JL?ie=UTF8&ref-suffix=ss_rw
 
 **Story Behind a Number, Amazon Alexa Skills, Live**
-https://www.amazon.com/gp/product/B07KB3MRYX?ie=UTF8&ref-suffix=ss_rw
+- https://www.amazon.com/gp/product/B07KB3MRYX?ie=UTF8&ref-suffix=ss_rw
 
 **Internal Integrated Software, CommerceHub, Senior Project Oct 2016 – June 2017**
 -	Developed tool to efficiently gather modified products’ data on the market-place for repricing service near real-time using C#, Azure Service Fabric, AWS S3, AWS SQS, and Microsoft SQL
