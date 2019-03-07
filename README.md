@@ -28,6 +28,7 @@ I graduated from Seattle University with a degree in Computer Science. I am curr
 - Tutor for Data Structure class and other 1st, 2nd year classes
 
 ### Projects
+
 **TradeItBuuk, mobile app for student to trade used book, In Development**
 -	Partner with a classmate to develop the mobile app from scratch
 -	Utilize React Native to build cross platform app (Android and iOS) and Google Firebase for backend
@@ -45,8 +46,10 @@ I graduated from Seattle University with a degree in Computer Science. I am curr
 -	Deployed and configure the application to AWS EC2
 
 ### Hackathon
+
 **Biz-Hack 2019, 4th Place** [Link](https://www.facebook.com/bizhacks.ca/)
 
 ### Education
+
 **Douglas College, PBD Douglas College 2018-2020**
 **Seattle University, BS Computer Science 2013-2017**
