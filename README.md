@@ -32,10 +32,10 @@ I graduated from Seattle University with a degree in Computer Science. I am curr
 -	Partner with a classmate to develop the mobile app from scratch
 -	Utilize React Native to build cross platform app (Android and iOS) and Google Firebase for backend
 
-**Adventure Assistant, Amazon Alexa Skills, Live**<br/>
+**Adventure Assistant, Amazon Alexa Skills, Live**
 [Link](https://www.amazon.com/gp/product/B07J3YC2JL?ie=UTF8&ref-suffix=ss_rw)
 
-**Story Behind a Number, Amazon Alexa Skills, Live**<br/>
+**Story Behind a Number, Amazon Alexa Skills, Live**
 [Link](https://www.amazon.com/gp/product/B07KB3MRYX?ie=UTF8&ref-suffix=ss_rw)
 
 **Internal Integrated Software, CommerceHub, Senior Project Oct 2016 – June 2017**
