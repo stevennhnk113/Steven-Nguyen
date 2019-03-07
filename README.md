@@ -44,6 +44,8 @@ I graduated from Seattle University with a degree in Computer Science. I am curr
 -	Year-long project provided a full designing-implementing-testing procedure in an agile approach
 -	Deployed and configure the application to AWS EC2
 
+### Hackathon
+**Biz-Hack 2019, 4th Place** [Link](https://www.facebook.com/bizhacks.ca/)
 
 ### Education
 **Douglas College, PBD Douglas College 2018-2020**
