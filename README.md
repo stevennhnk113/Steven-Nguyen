@@ -50,7 +50,7 @@ I graduated from Seattle University with a degree in Computer Science. I am curr
 **Biz-Hack 2019, 4th Place** [Link](https://www.facebook.com/bizhacks.ca/)
 
 ## Other
-![Image](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjW1tvMpO_gAhVInp4KHRWHDm0QjRx6BAgBEAU&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Flinkedin-color-icon_3547785.html&psig=AOvVaw084jOmzUPzO1O1xgTqY_nv&ust=1552022523940894) [LinkedIn](https://www.linkedin.com/in/nguyen-nguyen-steven/)
+![Image](https://github.com/stevennhnk113/Steven-Nguyen/blob/master/square-linkedin-512.png) [LinkedIn](https://www.linkedin.com/in/nguyen-nguyen-steven/)
 
 ## Education
 
